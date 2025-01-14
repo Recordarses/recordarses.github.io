@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+## 关于初心
+希望可以记下自己的一路学习与成长。
+
+## 关于理想
+自由一生
+
+## 关于热爱
+希望能够探索发现与得到
